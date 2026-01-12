@@ -5,3 +5,4 @@ This repository contains selected figures for my forthcoming paper, “Delinquen
 
 **Keywords:** Juvenile delinquency, Offending profiles, Sociodemographic determinants of crime, Restorative justice, Latent Class Analysis.
 
+<img width="1189" height="596" alt="image" src="https://github.com/user-attachments/assets/bf86e5ed-d09f-40f3-9e2e-2b76cffe9c0e" />
