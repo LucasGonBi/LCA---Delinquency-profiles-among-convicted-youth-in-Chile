@@ -1,5 +1,5 @@
-# LCA---Delinquency-profiles-among-convicted-youth-in-Chile
-This repository contains selected figures for my forthcoming paper, “Delinquency profiles among convicted youth in Chile: Latent Class Analysis and associated sociodemographic factors.”
+# LCA-Delinquency-profiles-among-convicted-youth-in-Chile
+This repository contains selected figures for my forthcoming paper, _“Delinquency profiles among convicted youth in Chile: Latent Class Analysis and associated sociodemographic factors”_
 
 Over the past decade, juvenile delinquency in Chile has undergone significant transformations in offense frequency, offense types, and offending trajectories. This study aims to identify and characterize the offending profiles of adolescents and young people convicted nationwide, examining the sociodemographic factors that shape their configuration. The paper’s **main contribution** is the development of a **typology of convicted adolescents based on their conviction offenses**. Using **Latent Class Analysis (LCA)**, I identify seven criminological profiles, which are summarized in the figure below.
 
