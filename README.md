@@ -12,4 +12,7 @@ The figure displays the probabilities associated with each offense type, using d
 
 A multinomial logistic regression model was then employed to test four hypotheses linking sociodemographic variables to the identified offending profiles. The results reveal positive associations between age and more complex offending profiles, between age and recidivist profiles, between drug use and recidivism in property-related offenses, and between being female and profiles linked to drug trafficking. An unanticipated finding shows a positive relationship between profiles associated with sexual offenses and youths from higher socioeconomic strata. Taken together, these findings highlight the criminological and sociodemographic heterogeneity of the population sentenced under the Juvenile Criminal Responsibility Law, contributing to the rethinking of intervention strategies within the restorative framework adopted by the National Service for Juvenile Social Reintegration (SNRSJ).
 
+<img width="1424" height="750" alt="image" src="https://github.com/user-attachments/assets/4f0eabc1-1ef7-4e03-8a88-47962a99bc67" />
+
+
 I hope you get to read this paper when it's published:)
